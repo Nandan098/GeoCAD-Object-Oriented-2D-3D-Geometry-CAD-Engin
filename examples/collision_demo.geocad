@@ -1,0 +1,7 @@
+GEOCAD 1
+SHAPES 4
+CIRCLE nearCircle 0 0 3
+CIRCLE farCircle 10 0 3
+RECTANGLE rect1 0 0 8 4 20
+RECTANGLE rect2 2 0 8 4 -15
+END

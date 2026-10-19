@@ -1,0 +1,14 @@
+/build/
+/.vs/
+.vscode/
+*.user
+*.suo
+*.vcxproj*
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+Testing/
+*.o
+*.obj
+*.exe
+*.out
